@@ -132,8 +132,8 @@ char const* string_desc_arr [] =
 {
   (const char[]) { 0x09, 0x04 }, // 0: is supported language is English (0x0409)
   "Polykit",                     // 1: Manufacturer
-  "Pico DCO",                    // 2: Product
-  "123456",                      // 3: Serials, should use chip ID
+  "Pico DCO DAC",                    // 2: Product
+  "123466",                      // 3: Serials, should use chip ID
 };
 
 static uint16_t _desc_str[32];
